@@ -32,7 +32,7 @@ O site apresenta minhas informações profissionais, formação acadêmica, proj
 ## 🚀 Acesso
 
 Você pode visualizar o site online neste link:  
-👉 [https://renatatxr19.github.io/](https://renatatxr19.github.io/)
+👉 [https://renatatxr19.github.io/Curriculo/)
 
 ---
 
